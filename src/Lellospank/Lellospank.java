@@ -8,7 +8,7 @@ public class Lellospank {
 		flukaInstance = new FlukaClass();
 		System.out.println("Proprio lui");
 		System.out.println("Grazie Mario by Carlo");
-		System.out.println(flukaInstance.flukaString());
+		System.out.println(flukaInstance.flukaString("ciao belli!"));
 	}
 
 }
