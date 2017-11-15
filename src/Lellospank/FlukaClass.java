@@ -3,8 +3,8 @@ package Lellospank;
 
 public class FlukaClass {
 
-	public String flukaString(){
-		return "Ciao sono Fluka89";
+	public String flukaString(String messaggio){
+		return "Fluka89 dice : "+ messaggio;
 	}
 
 }
