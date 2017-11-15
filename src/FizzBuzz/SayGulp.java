@@ -1,4 +1,4 @@
-package fizzBuzz;
+package FizzBuzz;
 
 public class SayGulp implements SayI {
   public static final String STR_GULP = "Gulp";

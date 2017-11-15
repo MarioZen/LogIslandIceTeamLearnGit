@@ -1,4 +1,4 @@
-package fizzBuzz;
+package FizzBuzz;
 
 import org.junit.Assert;
 

@@ -1,4 +1,4 @@
-package fizzBuzz;
+package FizzBuzz;
 
 import java.util.List;
 
