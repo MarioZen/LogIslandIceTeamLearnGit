@@ -9,6 +9,7 @@ public class Lellospank {
 		System.out.println("Proprio lui");
 		System.out.println("Grazie Mario by Carlo");
 		System.out.println(flukaInstance.flukaString("ciao belli!"));
+		System.out.println("Sergio organizza i meeting e poi se ne fugge");
 	}
 
 }
