@@ -3,6 +3,11 @@ package hellospank;
 public class Welcome {
 
 	public static void main(String[] args) {
-System.out.println("Welcome Bruna");
+		Welcome.print("Welcome Bruna");
+	}
+	
+	public static void print(String message){
+		System.out.println(message);
+
 	}
 }
