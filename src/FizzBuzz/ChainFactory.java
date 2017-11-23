@@ -10,6 +10,7 @@ public class ChainFactory {
     chain.add(new SayBuzz());
     chain.add(new SayBang());
     chain.add(new SayGulp());
+    chain.add(new SayGulp());
     return chain;
     //Commit
     //Seconda Commit
